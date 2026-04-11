@@ -33,7 +33,6 @@ export default function App() {
         product7: 'Unity woven coffee table',
         product8: 'The Mist',
         product9: 'CU',
-        product10: 'Project 10',
       },
       contact: {
         title: 'CONTACT',
@@ -64,7 +63,6 @@ export default function App() {
         product7: '织合',
         product8: '雾',
         product9: '如果',
-        product10: '项目 10',
       },
       contact: {
         title: '联系',
@@ -105,6 +103,7 @@ export default function App() {
   } = {
     product1: {
       image: 'https://pub-43bd14b51b6f4569a7a1b41d2b455df5.r2.dev/IMG_3755.jpg',
+      image: 'https://pub-43bd14b51b6f4569a7a1b41d2b455df5.r2.dev/knotting%20%E7%BB%86%E8%8A%82.JPG',
       descriptionEN: 'The Echo is a sofa side mood lamp that integrates the traditional Chinese palace light, simplifying its decorative base into a form that echoes the light bulb, and freestanding by the base.',
       descriptionZH: 'The Echo 是一款沙发边灯，融合了中国传统宫灯的元素。它将宫灯装饰性的底座简化为与灯泡呼应的造型，并通过交叉底座实现独立站立',
     },
@@ -384,15 +383,6 @@ export default function App() {
                 className="w-full aspect-[3/4] rounded-lg object-cover object-center mb-3 sm:mb-4"
               />
               <p className="text-[#5A4A3A] text-sm sm:text-base">{t.products.product9}</p>
-            </div>
-            {/* Product 10 */}
-            <div className="text-center cursor-pointer hover:opacity-80 transition-opacity" onClick={() => setSelectedProject('product10')}>
-              <ImageWithFallback
-                src="https://images.unsplash.com/photo-1615876063272-e5c6f60bc6aa?w=800&h=1000&fit=crop"
-                alt="Project 10"
-                className="w-full aspect-[3/4] rounded-lg object-cover object-center mb-3 sm:mb-4"
-              />
-              <p className="text-[#5A4A3A] text-sm sm:text-base">{t.products.product10}</p>
             </div>
           </div>
         </div>
