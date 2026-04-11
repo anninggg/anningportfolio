@@ -103,9 +103,10 @@ export default function App() {
   } = {
     product1: {
       image: 'https://pub-43bd14b51b6f4569a7a1b41d2b455df5.r2.dev/IMG_3755.jpg',
-      image: 'https://pub-43bd14b51b6f4569a7a1b41d2b455df5.r2.dev/knotting%20%E7%BB%86%E8%8A%82.JPG',
+      image2: 'https://pub-43bd14b51b6f4569a7a1b41d2b455df5.r2.dev/knotting%20%E7%BB%86%E8%8A%82.JPG',
+      image3: 'https://pub-43bd14b51b6f4569a7a1b41d2b455df5.r2.dev/Screenshot%202026-04-12%20at%2000.18.21.png',
       descriptionEN: 'The Echo is a sofa side mood lamp that integrates the traditional Chinese palace light, simplifying its decorative base into a form that echoes the light bulb, and freestanding by the base.',
-      descriptionZH: 'The Echo 是一款沙发边灯，融合了中国传统宫灯的元素。它将宫灯装饰性的底座简化为与灯泡呼应的造型，并通过交叉底座实现独立站立',
+      descriptionZH: 'The Echo 是一款沙发边灯，融合了中国传统宫灯的元素。它将宫灯装饰性的底座简化为与灯泡呼应的造型，并通过交叉底座实现独立站立,它使用CNC切割技术, 被设计为可在本地制造。回应了当代设计中装饰性元素与功能需求之间的张力并探索传统物件如何在现代灯具设计中被重新诠释。',
     },
     product2: {
       image: 'https://pub-43bd14b51b6f4569a7a1b41d2b455df5.r2.dev/IMG_1302.jpg',
