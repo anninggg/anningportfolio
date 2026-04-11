@@ -121,7 +121,7 @@ export default function App() {
     },
     product4: {
       image: 'https://pub-43bd14b51b6f4569a7a1b41d2b455df5.r2.dev/IMG_2820.jpg',
-      image2: 'https://pub-43bd14b51b6f4569a7a1b41d2b455df5.r2.dev/stockwell%E7%BB%84%E8%8A%82.jpg',
+      image2: 'https://pub-43bd14b51b6f4569a7a1b41d2b455df5.r2.dev/stockwell%E7%BB%86%E8%8A%82.jpg',
       image3: 'https://pub-43bd14b51b6f4569a7a1b41d2b455df5.r2.dev/%E5%BC%80%E9%97%A8%E6%9F%9C%E5%AD%902%E4%BE%A7%E9%9D%A2%E5%85%A8%E5%9B%BE%E6%A1%88.jpg',
       descriptionEN: 'A multifunctional cabinet for the sewing group at Stockwell Park Community Centre, combining storage and display. The design draws inspiration from Stockwell\'s link to the first imported pineapple in the UK, incorporating residents\' pineapple drawings and chunk-like forms.',
       descriptionZH: '一款为 Stockwell Park Community Centre 缝纫小组设计的多功能柜体，结合了储物与展示功能。设计灵感来源于 Stockwell 与英国第一颗进口菠萝之间的联系，并融入了居民绘制的菠萝图案以及块状的造型。',
