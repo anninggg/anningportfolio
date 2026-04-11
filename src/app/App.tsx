@@ -105,7 +105,6 @@ export default function App() {
   } = {
     product1: {
       image: 'https://pub-43bd14b51b6f4569a7a1b41d2b455df5.r2.dev/IMG_3755.jpg',
-      image2: 'https://pub-43bd14b51b6f4569a7a1b41d2b455df5.r2.dev/knotting%20%E7%BB%84%E8%8A%82.JPG',
       descriptionEN: 'The Echo is a sofa side mood lamp that integrates the traditional Chinese palace light, simplifying its decorative base into a form that echoes the light bulb, and freestanding by the base.',
       descriptionZH: 'The Echo 是一款沙发边灯，融合了中国传统宫灯的元素。它将宫灯装饰性的底座简化为与灯泡呼应的造型，并通过交叉底座实现独立站立',
     },
@@ -151,11 +150,6 @@ export default function App() {
       image: 'https://pub-43bd14b51b6f4569a7a1b41d2b455df5.r2.dev/cu%E5%B0%81%E9%9D%A2.jpg',
       descriptionEN: 'What if we shared our living spaces with pets? What if furniture could be freely assembled while also providing dedicated spaces for pets? When purchasing new furniture, we rarely consider the needs of pets. CU offers U shape base modules and connectors, allowing users to assemble furniture into different configurations to support co-living with pets.',
       descriptionZH: '如果我们与宠物共享生活空间，会发生什么？如果家具不仅可以自由组合，同时也能为宠物提供专属空间，又会怎样？在购买家具时，我们往往很少考虑宠物的需求。CU 提供 U 形基础模块与连接件，使用户能够根据需要自由组合成不同形态的家具，以满足人与宠物共同生活的需求。',
-    },
-    product10: {
-      image: 'https://images.unsplash.com/photo-1615876063272-e5c6f60bc6aa?w=800&h=1000&fit=crop',
-      descriptionEN: 'Project description for Product 10. Add your description here.',
-      descriptionZH: '项目 10 的描述。在此添加您的描述。',
     },
   };
 
